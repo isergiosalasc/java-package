@@ -9,7 +9,6 @@ import java.util.Map;
  * Demonstrates Maven build process with modern Java.
  */
 public class CurrencyConverter {
-
     /**
      * Default constructor for CurrencyConverter.
      * Creates a new instance of the currency converter.
